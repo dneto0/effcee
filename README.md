@@ -1,4 +1,5 @@
 # Effcee
+use a signing key
 
 Effcee is a C++ library for stateful pattern matching of strings, inspired by
 LLVM's [FileCheck][FileCheck] command.
