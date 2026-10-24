@@ -53,7 +53,7 @@ cmake \
   -DCMAKE_C_COMPILER=clang \
   -DCMAKE_CXX_COMPILER=clang++ \
   -DCMAKE_BUILD_TYPE=$BUILD_TYPE \
-  -DRE_BUILD_TESTING=OFF \
+  -DRE2_BUILD_TESTING=OFF \
   ..
 
 echo $(date): Build everything...
